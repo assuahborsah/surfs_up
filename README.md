@@ -28,4 +28,4 @@ Data Source: hawaii.sqlite
 # Summary
 The standard deviation in the June temperatures is slightly smaller (3.26) compared to the standard deviation in the December temperature (3.75), this impacts temperature ranges and temperature fluctuations. The range of temperatures in June are smaller and therefore warmer compared to the range of temperatures in December, which are larger and therefore colder.
 
-With this said it can be concluded that the surf and ice cream will be viable year-round. In the sense that maximum temperatures for the months of June and December will be around middle 80(F).
+With this said, it can be concluded that the surf and ice cream shop would be viable year-round in the sense that, the maximum temperatures for the months of June and December will be around the middle 80's(F).
